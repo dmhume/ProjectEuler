@@ -1,5 +1,5 @@
 # ProjectEuler
-Solutions to Project Euler problems
+## Solutions to Project Euler problems
 
 | __Problem__ | __Description/Title__ | __Python__ |
 |-------------|------------|------------|
